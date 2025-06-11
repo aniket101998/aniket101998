@@ -20,14 +20,7 @@
 
 ### 🧰 Tech Stack
 
-<img align="left" alt="SAP ABAP" width="36px" src="https://img.icons8.com/fluency/48/sap.png" />
-<img align="left" alt="Python" width="36px" src="https://img.icons8.com/color/48/python--v1.png" />
-<img align="left" alt="SQL" width="36px" src="https://img.icons8.com/ios-filled/50/sql.png" />
-<img align="left" alt="Git" width="36px" src="https://img.icons8.com/color/48/git.png" />
-<img align="left" alt="AWS" width="36px" src="https://img.icons8.com/color/48/amazon-web-services.png" />
-<img align="left" alt="VS Code" width="36px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-<img align="left" alt="SAP GUI" width="36px" src="https://img.icons8.com/color/48/system-information.png" />
-
+<p align="left"> <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/SAP%20GUI-0FAAFF?style=for-the-badge&logoColor=white" alt="SAP GUI" /> </p>
 <br><br>
 
 ---
